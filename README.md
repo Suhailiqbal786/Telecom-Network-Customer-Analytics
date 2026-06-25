@@ -76,7 +76,7 @@ The dashboard includes:
 **Suhail Iqbal**
 
 - GitHub: https://github.com/Suhailiqbal786
-- LinkedIn: https://www.linkedin.com/in/suhail-iqbal/
+- LinkedIn: https://www.linkedin.com/in/suhail-iqbal-550727264/
 
 ---
 ⭐ If you found this project useful, consider giving it a star!
